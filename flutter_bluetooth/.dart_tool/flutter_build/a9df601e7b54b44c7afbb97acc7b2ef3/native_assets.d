@@ -1,0 +1,1 @@
+ C:\\Users\\Maruli\ Tua\ P\\Downloads\\flutter_bluetooth\\flutter_bluetooth\\.dart_tool\\flutter_build\\a9df601e7b54b44c7afbb97acc7b2ef3\\native_assets.yaml: 
